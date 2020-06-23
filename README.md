@@ -3,7 +3,7 @@
 **Creating a RESTful API to classify American Sign Language gestures**
 (Part 2 of the mobile computing project)
 
-**The first phase of this project can be found here: https://github.com/i-am-SR/Mobile-Computing-Project-Android-App**
+**The first phase of this project can be found here: https://github.com/prempatel97/American_Sign_Language_Classification_Using_ML_Project_Phase_1**
 
 
 **Details:**
@@ -14,7 +14,7 @@
 
 • For generating the key points, followed instructions in the link -> https://github.com/prashanthnetizen/posenet_nodejs_setup
 
-• For the dataset, we used the videos captured as part of your first assignment (https://github.com/i-am-SR/CSE_535_Mobile_Computing). 
+• For the dataset, we used the videos captured as part of your first assignment (https://github.com/prempatel97/American_Sign_Language_Classification_Using_ML_Project_Phase_1). 
 
 • The JSON input given to the service follows the format of the output given by the JavaScript file mentioned in the GitHub repo.
 
